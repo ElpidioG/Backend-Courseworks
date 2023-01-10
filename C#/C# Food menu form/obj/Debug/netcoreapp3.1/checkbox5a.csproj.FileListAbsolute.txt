@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.Form1.resources
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.exe
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.deps.json
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.runtimeconfig.json
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.dll
+C:\Users\User\Desktop\C#\checkbox5a\bin\Debug\netcoreapp3.1\checkbox5a.pdb
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.dll
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.pdb
+C:\Users\User\Desktop\C#\checkbox5a\obj\Debug\netcoreapp3.1\checkbox5a.genruntimeconfig.cache

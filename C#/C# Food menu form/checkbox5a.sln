@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkbox5a", "checkbox5a.csproj", "{C4517213-E31B-40A4-B8BA-AAB106496FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4517213-E31B-40A4-B8BA-AAB106496FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4517213-E31B-40A4-B8BA-AAB106496FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4517213-E31B-40A4-B8BA-AAB106496FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4517213-E31B-40A4-B8BA-AAB106496FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DCE5C8-17AF-499D-A425-DD3A5B00F55E}
+	EndGlobalSection
+EndGlobal

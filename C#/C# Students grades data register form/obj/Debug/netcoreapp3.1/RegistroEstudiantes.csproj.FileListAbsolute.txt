@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.exe
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.deps.json
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.runtimeconfig.json
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.runtimeconfig.dev.json
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.dll
+C:\Users\User\Desktop\C#\RegistroEstudiantes\bin\Debug\netcoreapp3.1\RegistroEstudiantes.pdb
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.Form1.resources
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.dll
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.pdb
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\RegistroEstudiantes\obj\Debug\netcoreapp3.1\RegistroEstudiantes.Properties.Resources.resources
