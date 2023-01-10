@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\bin\Debug\pictureboxili.exe.config
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\bin\Debug\pictureboxili.exe
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\bin\Debug\pictureboxili.pdb
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.Form1.resources
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.Properties.Resources.resources
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.exe
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.pdb
+C:\Users\User\Desktop\C#\pictureboxili\pictureboxili\obj\Debug\pictureboxili.Form2.resources
