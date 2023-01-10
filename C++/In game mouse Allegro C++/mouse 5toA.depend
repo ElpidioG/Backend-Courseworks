@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614565128 source:c:\users\user\desktop\code\mouse 5toa\main.cpp
+	<iostream>
+	<allegro.h>
+

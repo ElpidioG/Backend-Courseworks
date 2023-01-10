@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611766380 source:c:\users\user\desktop\code\fff\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
+1611766380 source:c:\users\user\desktop\miop\class\code\fff\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612972692 source:c:\users\user\desktop\code\imagenes\main.cpp
+	<iostream>
+	<allegro.h>
+

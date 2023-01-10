@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612815417 source:c:\users\user\desktop\code\salto\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+
